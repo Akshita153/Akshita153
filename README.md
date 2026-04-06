@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Frontend-heavy web applications using React, JavaScript, HTML, CSS, Bootstrap & Material-UI, focusing on clean UI and reusable components.<br><br>👯 I’m looking to collaborate on<br>Beginner–intermediate React projects, UI/UX-focused web apps, and real-world frontend implementations.<br><br>🤝 I’m looking for help with<br>Deepening my understanding of full-stack concepts, system-level JavaScript, and gradually moving beyond UI-only roles.<br><br>🌱 I’m currently learning<br>Advanced JavaScript, React (hooks & patterns), SQL, and exploring full-stack & cloud fundamentals.<br><br>💬 Ask me about<br>Frontend development, React , UI structuring, Git/GitHub, or turning Figma designs into responsive code.<br><br>⚡ Fun fact<br>I love building visually clean interfaces and re-watching Friends & Brooklyn Nine-Nine while debugging
+🔭 I’m currently working on
+Production-grade React applications in healthcare & AI domains, building scalable, user-facing platforms with React, JavaScript, HTML, CSS, Bootstrap & Material-UI — focused on performance, clean UI, and reusable component architecture.
+
+<br><br>
+
+🌱 Currently exploring
+Advanced JavaScript patterns, React architecture (hooks & design patterns), SQL, along with TypeScript, Next.js, and cloud fundamentals to move towards end-to-end product ownership.
+
+<br><br>
+
+💬 Ask me about
+Building production-ready React apps, optimizing performance & PageSpeed, REST API integrations, scalable UI architecture, and translating Figma designs into pixel-perfect, responsive interfaces.
+
+<br><br>
+
+⚡ Fun fact
+I love building visually clean interfaces and re-watching Friends & Brooklyn Nine-Nine while debugging
 
 
 ## 🌐 Socials:
