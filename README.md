@@ -1,15 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on
-Production-grade React applications in healthcare & AI domains, building scalable, user-facing platforms with React, JavaScript, HTML, CSS, Bootstrap & Material-UI — focused on performance, clean UI, and reusable component architecture.
-<br><br>
-🌱 Currently exploring
+🔭 I’m currently working on  
+Production-grade React applications in healthcare & AI domains, building scalable platforms with React, JavaScript (ES6+), Material-UI, Bootstrap, HTML & CSS — focused on performance, clean UI, and scalable component architecture.
+
+🌱 Currently exploring  
 Advanced JavaScript patterns, React architecture (hooks & design patterns), SQL, along with TypeScript, Next.js, and cloud fundamentals to move towards end-to-end product ownership.
-<br><br>
-💬 Ask me about
-Building production-ready React apps, optimizing performance & PageSpeed, REST API integrations, scalable UI architecture, and translating Figma designs into pixel-perfect, responsive interfaces.
-<br><br>
-⚡ Fun fact
-I love building visually clean interfaces and re-watching Friends & Brooklyn Nine-Nine while debugging
+
+💬 Ask me about  
+Building and scaling production-ready React apps, performance optimization (PageSpeed), REST API integrations, scalable UI architecture, and translating Figma designs into pixel-perfect responsive interfaces.
+
+⚡ Fun fact  
+I love building visually clean interfaces and re-watching Friends & Brooklyn Nine-Nine while debugging.
 
 
 ## 🌐 Socials:
